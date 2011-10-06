@@ -1,0 +1,14 @@
+{
+	"name": "analytics",
+	"description": "PAI Google Analytics plugin",
+	"version": "0.1.0",
+	"author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+	"js": "analytics.js",
+	
+	"licenses": [ 
+		{
+			"type": "MIT",
+			"url": "https://github.com/KrooniX/js-dateFormat/raw/master/LICENSE"
+		}
+	]
+}
